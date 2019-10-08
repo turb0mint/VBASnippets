@@ -3,7 +3,6 @@ On Error GoTo error:
 
     Dim result As Integer
     
-    Debug.Print "Running"
     
     Randomize
     
